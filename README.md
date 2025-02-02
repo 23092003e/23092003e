@@ -7,8 +7,8 @@ Fresh graduates looking to apply their AI and Data skills to challenging project
 - Relevant coursework: Machine Learning, Deep Learning, AI, Data Mining, Data Structures and Algorithms, Statistical Method, Big Data Technology, Database Management, Data Analysis, Data Science and Data Visualization, Analytics for Observational Data.
 
 ## 🔭 Experience
-**Teaching Assistant (Analytics for Observational Data)**              **September 2024 – January 2025                  
-INTERNATIONAL UNIVERSITY (IU) – VNU HCMC                                     Thu Duc, Ho Chi Minh City**
+**Teaching Assistant (Analytics for Observational Data)**                    \September 2024 – January 2025                  
+INTERNATIONAL UNIVERSITY (IU) – VNU HCMC                                     \Thu Duc, Ho Chi Minh City
 - Assist teacher in lecturing, explaining concepts and demonstrating techniques related to data, preparing materials, giving presentations.
 - Assist in grading assignments, projects, and tests.
 = Guide students in lab sessions using Python.
@@ -29,10 +29,10 @@ INTERNATIONAL UNIVERSITY (IU) – VNU HCMC                                     T
 
 
 ## 🏆 Certifications
-**- Google Data Analytics Professional Certificate**
-**- Data Visualization with Python (IBM)**
-**- Machine Learning with Python (IBM)**
-**- SQL Hackerrank (Advanced)**
+- **Google Data Analytics Professional Certificate**
+- **Data Visualization with Python (IBM)**
+- **Machine Learning with Python (IBM)**
+- **SQL Hackerrank (Advanced)**
 
 ## 🤝🏽 Let's Connect!
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/hvmanh2309/)
