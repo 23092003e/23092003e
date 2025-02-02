@@ -23,36 +23,19 @@ INTERNATIONAL UNIVERSITY (IU) – VNU HCMC                                     T
 - **Others**: Microsoft Office, Problem Solving Skills, Critical Thinking, Git
 
 ## 🚀 Projects
-- **Wildfire Burn Scars Segmentation** - SegNet model to segment the burn scars of a wildfire in satellite images
-- **Wildfire Risk Prediction** - CNN model to predict whether an area is at risk of a wildfire or not
-- **Lung Cancer Detection** - CNN model that can identify which type of lung cancer a patient has based on a scanner image of their lungs
-- **365DataScience Challenge** - Analytics and visualization of a database and building an ML model to predict new paid subscribers
-- **Almad (Web App)** - Online learning platform
+- **Predicting Term Deposit Suscriptionsn**
+- **Customer-Segementation-Analysis**
+- **Toxic Comment Detection**
+
 
 ## 🏆 Certifications
-- **IBM Applied AI Specialization** - Coursera (IBM) - 2023
-- **Data Scientist** - 365 Data Science - 2022
-- **Scientific Computing with Python** - freeCodeCamp - 2021
+**- Google Data Analytics Professional Certificate**
+**- Data Visualization with Python (IBM)**
+**- Machine Learning with Python (IBM)**
+**- SQL Hackerrank (Advanced)**
 
 ## 🤝🏽 Let's Connect!
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/abdelghani-aaba/)
-- Kaggle: [Kaggle Profile](https://www.kaggle.com/abdelghaniaaba)
-- Email: [Email Address](mailto:abdouaaba11@gmail.com)
-- Personal Website: [Portfolio](https://abdelghani.me)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/hvmanh2309/)
+- Email: [Email Address](mailto:hoangvanmanh2309@gmail.com)
 
 ### 🤖 Data is the new oil, and we can refine it with the power of AI! 🚀
-
-<!--
-**abdouaaba/abdouaaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
