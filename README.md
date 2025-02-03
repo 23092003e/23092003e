@@ -25,7 +25,7 @@ INTERNATIONAL UNIVERSITY (IU) – VNU HCMC, Thu Duc, Ho Chi Minh City
 - **Others**: Microsoft Office, Problem Solving Skills, Critical Thinking, Git
 
 ## 🚀 Projects
-- **Predicting Term Deposit Suscriptionsn**
+- **Predicting Term Deposit Suscription**
 - **Customer-Segementation-Analysis**
 - **Toxic Comment Detection**
 
