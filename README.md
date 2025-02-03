@@ -13,7 +13,7 @@ INTERNATIONAL UNIVERSITY (IU) – VNU HCMC, Thu Duc, Ho Chi Minh City
 
 - Assist teacher in lecturing, explaining concepts and demonstrating techniques related to data, preparing materials, giving presentations.
 - Assist in grading assignments, projects, and tests.
-= Guide students in lab sessions using Python.
+- Guide students in lab sessions using Python.
 
 ## 💻 Skills
 - **Languages**: Python, SQL, R
@@ -25,9 +25,10 @@ INTERNATIONAL UNIVERSITY (IU) – VNU HCMC, Thu Duc, Ho Chi Minh City
 - **Others**: Microsoft Office, Problem Solving Skills, Critical Thinking, Git
 
 ## 🚀 Projects
+- **Toxic Comment Detection**
 - **Predicting Term Deposit Suscription**
 - **Customer-Segementation-Analysis**
-- **Toxic Comment Detection**
+- **Online Ordering Pizza System**
 
 
 ## 🏆 Certifications
@@ -39,5 +40,6 @@ INTERNATIONAL UNIVERSITY (IU) – VNU HCMC, Thu Duc, Ho Chi Minh City
 ## 🤝🏽 Let's Connect!
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/hvmanh2309/)
 - Email: [Email Address](mailto:hoangvanmanh2309@gmail.com)
+- Github: [Github](https://github.com/23092003e/23092003e/)
 
 ### 🤖 Data is the new oil, and we can refine it with the power of AI! 🚀
