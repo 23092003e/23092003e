@@ -20,6 +20,7 @@ INTERNATIONAL UNIVERSITY (IU) – VNU HCMC, Thu Duc, Ho Chi Minh City
 - **Visualization**: PowerBI, Python (Seaborn, Matplotlib, Flask)
 - **Artificial Intelligence**: Machine Learning ,Deep Learning, scikit-learn, TensorFlow, Keras, NLP, Computer Vision
 - **Big Data**: PySpark, Docker, Apache
+- **Math**: Calculus, Linear Algebra, Probability and Statistics
 - **Cloud**: Google Cloud Platform
 - **Databases**: MS SQL
 - **Others**: Microsoft Office, Problem Solving Skills, Critical Thinking, Git
