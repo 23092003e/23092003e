@@ -26,6 +26,8 @@ September 2024 – January 2025
 - **Others**: Microsoft Office, Problem Solving Skills, Critical Thinking, Git
 
 ## 🚀 Projects
+- **Streaming-Fraud-Detection**
+- **Stock-Price-Forecasting-System-Using-Apache-Spark**
 - **Toxic Comment Detection**
 - **Predicting Term Deposit Suscription**
 - **Customer-Segementation-Analysis**
