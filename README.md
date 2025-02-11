@@ -3,13 +3,13 @@
 Fresh graduates looking to apply their AI and Data skills to challenging projects. Proven ability to learn quickly and deliver impactful results in a fast-paced work environment. Seeking opportunities to grow and contribute to cutting-edge AI technology.
 
 ## 🎓 Education
-- Bachelor degree in Data Science from International University (HCMIU)
-- Relevant coursework: Machine Learning, Deep Learning, AI, Data Mining, Data Structures and Algorithms, Statistical Method, Big Data Technology, Database Management, Data Analysis, Data Science and Data Visualization, Analytics for Observational Data.
+- Bachelor degree in **Data Science** from **International University (HCMIU)**
+- **Relevant coursework:** Machine Learning, Deep Learning, AI, Data Mining, Data Structures and Algorithms, Statistical Method, Big Data Technology, Database Management, Data Analysis, Data Science and Data Visualization, Analytics for Observational Data.
 
 ## 🔭 Experience
 **Teaching Assistant (Analytics for Observational Data)**                    
 September 2024 – January 2025                  
-INTERNATIONAL UNIVERSITY (IU) – VNU HCMC, Thu Duc, Ho Chi Minh City
+**INTERNATIONAL UNIVERSITY (IU) – VNU HCMC, Thu Duc, Ho Chi Minh City**
 
 - Assist teacher in lecturing, explaining concepts and demonstrating techniques related to data, preparing materials, giving presentations.
 - Assist in grading assignments, projects, and tests.
