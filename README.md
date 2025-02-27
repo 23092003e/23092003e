@@ -3,7 +3,8 @@
 Fresh graduates looking to apply their AI and Data skills to challenging projects. Proven ability to learn quickly and deliver impactful results in a fast-paced work environment. Seeking opportunities to grow and contribute to cutting-edge AI technology.
 
 ## 🎓 Education
-- Bachelor degree in **Data Science** from **International University (HCMIU)**
+- Bachelor degree in **Data Science** - **GPA**: 3.3/4.0
+- **International University (HCMIU)**
 - **Relevant coursework:** Machine Learning, Deep Learning, AI, Data Mining, Data Structures and Algorithms, Statistical Method, Big Data Technology, Database Management, Data Analysis, Data Science and Data Visualization, Analytics for Observational Data.
 
 ## 🔭 Experience
