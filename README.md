@@ -34,14 +34,14 @@ Looking to apply their AI and Data skills to challenging projects. Proven abilit
 
 ## 🔭 Experience
 - **Data Processing Specialist** ----- December 2024 - Present
-  **AppSense Medicaid, Oklahoma City, Oklahoma, US (Remote)**
+- **AppSense Medicaid, Oklahoma City, Oklahoma, US (Remote)**
   
   - Entry and Process Data from Woundynamics to AppSense Production
   - Work with Document AI on Google Cloud Platform to build a processor that automatically extracts data
   - Take over the coding for cloud function.
   
 - **Teaching Assistant (Analytics for Observational Data)** -------- September 2024 – January 2025                  
-  **INTERNATIONAL UNIVERSITY (IU) – VNU HCMC, Thu Duc, Ho Chi Minh City**
+- **INTERNATIONAL UNIVERSITY (IU) – VNU HCMC, Thu Duc, Ho Chi Minh City**
   - Assist teacher in lecturing, explaining concepts and demonstrating techniques related to data, preparing materials, giving presentations.
   - Assist in grading assignments, projects, and tests.
   - Guide students in lab sessions using Python.
