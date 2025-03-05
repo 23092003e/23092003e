@@ -4,22 +4,16 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=23092003e&style=flat-square&color=green" alt=""></p>
 
-<h1 align="center">Hi 👋, I'm MAI CHI BAO - MRZAIZAI2K </h1>
-<h3 align="center">An Algorithm/ML Engineer with expertise in AI, ML, and DL!</h3>
+<h1 align="center">Hello World!!! 👋🏻👋🏻👋🏻 I'm Manh Hoang (Mike) 🤖 </h1>
+<h3 align="center"> Fresh graduates looking to apply Data Scientist / Machine Learning Engineer / AI enginner </h3>
 
 <div align="center" style="padding: 20px;">
   <div id="badges">
-    <a href="https://www.linkedin.com/in/baochiwork/">
+    <a href="https://www.linkedin.com/in/hvmanh2309/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://youtube.com/@mrzaizai2k-ai704">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    </a>
-    <a href="https://www.kaggle.com/maichibao">
+    <a href="https://www.kaggle.com/mnhhongzz">
       <img src="https://img.shields.io/badge/Kaggle-white?style=for-the-badge&logo=kaggle&logoColor=blue" alt="Kaggle Badge"/>
-    </a>
-    <a href="https://dev.to/mrzaizai2k">
-      <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to Badge"/>
     </a>
   </div>
 </div>
