@@ -15,8 +15,15 @@
     <a href="https://www.kaggle.com/mnhhongzz">
       <img src="https://img.shields.io/badge/Kaggle-white?style=for-the-badge&logo=kaggle&logoColor=blue" alt="Kaggle Badge"/>
     </a>
+    <a href="mailto:hoangvanmanh2309@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
+    <a href="https://github.com/23092003e">
+      <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+    </a>
   </div>
 </div>
+
 
 Looking to apply their AI and Data skills to challenging projects. Proven ability to learn quickly and deliver impactful results in a fast-paced work environment. Seeking opportunities to grow and contribute to cutting-edge AI technology.  
 
