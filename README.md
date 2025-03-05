@@ -33,16 +33,14 @@ Looking to apply their AI and Data skills to challenging projects. Proven abilit
 - **Relevant coursework:** Machine Learning, Deep Learning, AI, Data Mining, Data Structures and Algorithms, Statistical Method, Big Data Technology, Database Management, Data Analysis, Data Science and Data Visualization, Analytics for Observational Data.
 
 ## 🔭 Experience
-- **Data Processing Specialist** (AppSense Medicaid)
-  December 2024 - Present
-  **Oklahoma City, Oklahoma, US (Remote)**
+- **Data Processing Specialist** ----- December 2024 - Present
+  **AppSense Medicaid, Oklahoma City, Oklahoma, US (Remote)**
   
   - Entry and Process Data from Woundynamics to AppSense Production
   - Work with Document AI on Google Cloud Platform to build a processor that automatically extracts data
   - Take over the coding for cloud function.
   
-- **Teaching Assistant (Analytics for Observational Data)**                    
-  September 2024 – January 2025                  
+- **Teaching Assistant (Analytics for Observational Data)** -------- September 2024 – January 2025                  
   **INTERNATIONAL UNIVERSITY (IU) – VNU HCMC, Thu Duc, Ho Chi Minh City**
   - Assist teacher in lecturing, explaining concepts and demonstrating techniques related to data, preparing materials, giving presentations.
   - Assist in grading assignments, projects, and tests.
