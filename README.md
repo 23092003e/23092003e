@@ -5,7 +5,7 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=23092003e&style=flat-square&color=green" alt=""></p>
 
 <h1 align="center">Hello World!!! 👋🏻👋🏻👋🏻 I'm Manh Hoang (Mike) 🤖 </h1>
-<h3 align="center"> Fresh graduates looking to apply Data Scientist / Machine Learning Engineer / AI enginner </h3>
+<h3 align="center"> Fresh Graduates Looking for Jobs Data Scientist / Machine Learning Engineer / AI Engineer </h3>
 
 <div align="center" style="padding: 20px;">
   <div id="badges">
@@ -18,7 +18,7 @@
   </div>
 </div>
 
-Fresh graduates looking to apply their AI and Data skills to challenging projects. Proven ability to learn quickly and deliver impactful results in a fast-paced work environment. Seeking opportunities to grow and contribute to cutting-edge AI technology.  
+Looking to apply their AI and Data skills to challenging projects. Proven ability to learn quickly and deliver impactful results in a fast-paced work environment. Seeking opportunities to grow and contribute to cutting-edge AI technology.  
 
 ## 🎓 Education
 - Bachelor degree in **Data Science** - **GPA**: 3.3/4.0
@@ -29,29 +29,31 @@ Fresh graduates looking to apply their AI and Data skills to challenging project
 - **Data Processing Specialist** (AppSense Medicaid)
   December 2024 - Present
   **Oklahoma City, Oklahoma, US (Remote)**
-  **Description**:
+**Description**:
   - Entry and Process Data from Woundynamics to AppSense Production
   - Work with Document AI on Google Cloud Platform to build a processor that automatically extracts data
   - Take over the coding for cloud function.
   
-
-
 - **Teaching Assistant (Analytics for Observational Data)**                    
   September 2024 – January 2025                  
   **INTERNATIONAL UNIVERSITY (IU) – VNU HCMC, Thu Duc, Ho Chi Minh City**
-  **Description**:
+**Description**:
   - Assist teacher in lecturing, explaining concepts and demonstrating techniques related to data, preparing materials, giving presentations.
   - Assist in grading assignments, projects, and tests.
   - Guide students in lab sessions using Python.
 
 ## 💻 Skills
-- **Languages**: Python, SQL, R
-- **Visualization**: PowerBI, Python (Seaborn, Matplotlib, Flask)
-- **Artificial Intelligence**: Machine Learning ,Deep Learning, scikit-learn, TensorFlow, Keras, NLP, Computer Vision
-- **Big Data**: PySpark, Docker, Apache
-- **Math**: Calculus, Linear Algebra, Probability and Statistics
+- **Progamming Languages**: Python (Advanced), SQL, R, Java(Basic)
+- **Visualization**: PowerBI, Python (Seaborn, Matplotlib, Flask, Streamlit), JavaScript (D3.js)
+- **Machine Learning**: Classification, Regression, Clustering, Time-Series, Association Rule.. (skicit-learn)
+- **Deep Learning**: CNN, RNN, LSTM... (Tensorflow, PyTorch, Keras)
+- **Recommendation System**: Segtiment Analysis
+- **Natural Language Processing**: (NLTK, Hugging Face Transformers)
+- **Computer Vision**: (OpenCV, CNN model, Yolo, SAM)
+- **Data preprocessing & Feature Engineering**: to understand the business insight (pandas, NumPy, SciPy)
+- **Big Data**: PySpark, Docker, Apache (Kafka, Spark, HDFS)
+- **Mathematics**: Calculus, Linear Algebra, Probability and Statistics
 - **Cloud**: Google Cloud Platform
-- **Databases**: MS SQL
 - **Others**: Microsoft Office, Problem Solving Skills, Critical Thinking, Git
 
 ## 🚀 Projects
