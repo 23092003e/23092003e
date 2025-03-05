@@ -18,12 +18,7 @@
   </div>
 </div>
 
-
-
-
-# Hello World!!! 👋🏻👋🏻👋🏻 I'm Manh Hoang (Mike) 🤖
-
-Fresh graduates looking to apply their AI and Data skills to challenging projects. Proven ability to learn quickly and deliver impactful results in a fast-paced work environment. Seeking opportunities to grow and contribute to cutting-edge AI technology.
+Fresh graduates looking to apply their AI and Data skills to challenging projects. Proven ability to learn quickly and deliver impactful results in a fast-paced work environment. Seeking opportunities to grow and contribute to cutting-edge AI technology.  
 
 ## 🎓 Education
 - Bachelor degree in **Data Science** - **GPA**: 3.3/4.0
@@ -31,13 +26,23 @@ Fresh graduates looking to apply their AI and Data skills to challenging project
 - **Relevant coursework:** Machine Learning, Deep Learning, AI, Data Mining, Data Structures and Algorithms, Statistical Method, Big Data Technology, Database Management, Data Analysis, Data Science and Data Visualization, Analytics for Observational Data.
 
 ## 🔭 Experience
-**Teaching Assistant (Analytics for Observational Data)**                    
-September 2024 – January 2025                  
-**INTERNATIONAL UNIVERSITY (IU) – VNU HCMC, Thu Duc, Ho Chi Minh City**
+- **Data Processing Specialist** (AppSense Medicaid)
+  December 2024 - Present
+  **Oklahoma City, Oklahoma, US (Remote)**
+  **Description**:
+  - Entry and Process Data from Woundynamics to AppSense Production
+  - Work with Document AI on Google Cloud Platform to build a processor that automatically extracts data
+  - Take over the coding for cloud function.
+  
 
-- Assist teacher in lecturing, explaining concepts and demonstrating techniques related to data, preparing materials, giving presentations.
-- Assist in grading assignments, projects, and tests.
-- Guide students in lab sessions using Python.
+
+- **Teaching Assistant (Analytics for Observational Data)**                    
+  September 2024 – January 2025                  
+  **INTERNATIONAL UNIVERSITY (IU) – VNU HCMC, Thu Duc, Ho Chi Minh City**
+  **Description**:
+  - Assist teacher in lecturing, explaining concepts and demonstrating techniques related to data, preparing materials, giving presentations.
+  - Assist in grading assignments, projects, and tests.
+  - Guide students in lab sessions using Python.
 
 ## 💻 Skills
 - **Languages**: Python, SQL, R
