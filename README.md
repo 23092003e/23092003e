@@ -55,6 +55,13 @@ Looking to apply their AI and Data skills to challenging projects. Proven abilit
 - **Cloud**: Google Cloud Platform
 - **Others**: Microsoft Office, Problem Solving Skills, Critical Thinking, Git
 
+### 🔥 &nbsp; Manh Hoang's GitHub Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=23092003e&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=23092003e&layout=compact&theme=vision-friendly-dark)](https://github.com/23092003e/github-readme-stats)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=23092003e&show_icons=true&locale=en&theme=vision-friendly-dark" alt="23092003e" /></p>
+
 ## 🚀 Projects
 - **Streaming-Fraud-Detection**
 - **Stock-Price-Forecasting-System-Using-Apache-Spark**
