@@ -61,7 +61,7 @@ Looking to apply their AI and Data skills to challenging projects. Proven abilit
 - **Others**: Microsoft Office, Problem Solving Skills, Critical Thinking, Git
 
 ### 🔥 &nbsp; Manh Hoang's GitHub Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=23092003e&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=23092003e)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=23092003e&layout=compact&theme=vision-friendly-dark)](https://github.com/23092003e/github-readme-stats)
 
