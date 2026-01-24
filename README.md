@@ -4,8 +4,8 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=23092003e&style=flat-square&color=green" alt=""></p>
 
-<h1 align="center">Hello World!!! 👋🏻👋🏻👋🏻 I'm Manh Hoang (Mike) 🤖 </h1>
-<h3 align="center"> Fresh Graduates Looking for Jobs Data Scientist / Machine Learning Engineer / AI Engineer </h3>
+<h1 align="center">Hello World!!! 👋🏻👋🏻👋🏻 I'm Manh Hoang</h1>
+<h3 align="center"> Fresh Graduates Looking for Jobs Data Scientist / Machine Learning Engineer / Data Analyst </h3>
 
 <div align="center" style="padding: 20px;">
   <div id="badges">
@@ -25,7 +25,7 @@
 </div>
 
 
-Looking to apply their AI and Data skills to challenging projects. Proven ability to learn quickly and deliver impactful results in a fast-paced work environment. Seeking opportunities to grow and contribute to cutting-edge AI technology.  
+Looking to apply their Data and AI skills to challenging projects. Proven ability to learn quickly and deliver impactful results in a fast-paced work environment. Seeking opportunities to grow and contribute to cutting-edge AI technology.  
 
 ## 🎓 Education
 - Bachelor degree in **Data Science**
@@ -33,6 +33,15 @@ Looking to apply their AI and Data skills to challenging projects. Proven abilit
 - **Relevant coursework:** Machine Learning, Deep Learning, AI, Data Mining, Data Structures and Algorithms, Statistical Method, Big Data Technology, Database Management, Data Analysis, Data Science and Data Visualization, Analytics for Observational Data.
 
 ## 🔭 Experience
+- **Finance AI & Automation Intern** ----- July 2025 - September 2025
+- **BW Industrial**
+  
+  - Automated tax notice processing across 154 subsidiaries, reducing email handling time by 90%.
+  - Built OCR-based data pipelines to centralize 98 bank accounts from 14 banks, cutting reconciliation effort by 50%.
+  - Developed a variance analysis system with 13 correlation rules, generating automated anomaly reports with 80%
+precision.
+  - Integrated AI-powered solutions (GPT, Claude, Copilot) to enhance finance workflows and decision support.
+
 - **Data Processing Specialist** ----- December 2024 - Present
 - **AppSense Medicaid, Oklahoma City, Oklahoma, US (Remote)**
   
@@ -68,13 +77,13 @@ Looking to apply their AI and Data skills to challenging projects. Proven abilit
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=23092003e&show_icons=true&locale=en&theme=vision-friendly-dark" alt="23092003e" /></p>
 
 ## 🚀 Projects
+- **Fashion Recommendation System via Sequence Mining on Social Media**
 - **Streaming-Fraud-Detection**
 - **Stock-Price-Forecasting-System-Using-Apache-Spark**
 - **Toxic Comment Detection**
 - **Predicting Term Deposit Suscription**
 - **Customer-Segementation-Analysis**
 - **Online Ordering Pizza System**
-
 
 ## 🏆 Certifications
 - **Google Data Analytics Professional Certificate**
