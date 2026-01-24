@@ -34,7 +34,7 @@ Looking to apply their Data and AI skills to challenging projects. Proven abilit
 
 ## 🔭 Experience
 - **Finance AI & Automation Intern** ----- July 2025 - September 2025
-- **BW Industrial**
+- *BW Industrial*
   
   - Automated tax notice processing across 154 subsidiaries, reducing email handling time by 90%.
   - Built OCR-based data pipelines to centralize 98 bank accounts from 14 banks, cutting reconciliation effort by 50%.
@@ -43,14 +43,14 @@ precision.
   - Integrated AI-powered solutions (GPT, Claude, Copilot) to enhance finance workflows and decision support.
 
 - **Data Processing Specialist** ----- December 2024 - Present
-- **AppSense Medicaid, Oklahoma City, Oklahoma, US (Remote)**
+- *AppSense Medicaid, Oklahoma City, Oklahoma, US (Remote)*
   
   - Entry and Process Data from Woundynamics to AppSense Production
   - Work with Document AI on Google Cloud Platform to build a processor that automatically extracts data
   - Take over the coding for cloud function.
   
 - **Teaching Assistant (Analytics for Observational Data)** -------- September 2024 – January 2025                  
-- **INTERNATIONAL UNIVERSITY (IU) – VNU HCMC, Thu Duc, Ho Chi Minh City**
+- *INTERNATIONAL UNIVERSITY (IU) – VNU HCMC, Thu Duc, Ho Chi Minh City*
   - Assist teacher in lecturing, explaining concepts and demonstrating techniques related to data, preparing materials, giving presentations.
   - Assist in grading assignments, projects, and tests.
   - Guide students in lab sessions using Python.
