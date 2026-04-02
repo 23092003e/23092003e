@@ -4,8 +4,8 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=23092003e&style=flat-square&color=green" alt=""></p>
 
-<h1 align="center">Hello World!!! 👋🏻👋🏻👋🏻 I'm Manh Hoang</h1>
-<h3 align="center"> Fresh Graduates Looking for Jobs Data Scientist / Machine Learning Engineer / Data Analyst </h3>
+<h1 align="center">Hello World!!! 👋🏻👋🏻👋🏻 I'm Hoang Manh</h1>
+<h3 align="center"> Fresh Graduates Looking for Jobs Data Scientist / AI Engineer / Machine Learning Engineer </h3>
 
 <div align="center" style="padding: 20px;">
   <div id="badges">
@@ -32,7 +32,7 @@ Looking to apply their Data and AI skills to challenging projects. Proven abilit
 - **Relevant coursework:** Machine Learning, Deep Learning, AI, Data Mining, Data Structures and Algorithms, Statistical Method, Big Data Technology, Database Management, Data Analysis, Data Science and Data Visualization, Analytics for Observational Data.
 
 ## 🔭 Experience
-- **Finance AI & Automation Intern** ----- July 2025 - September 2025
+- **Finance AI & Automation** ----- July 2025 - September 2025
 - *BW Industrial*
   
   - Automated tax notice processing across 154 subsidiaries, reducing email handling time by 90%.
@@ -41,8 +41,8 @@ Looking to apply their Data and AI skills to challenging projects. Proven abilit
 precision.
   - Integrated AI-powered solutions (GPT, Claude, Copilot) to enhance finance workflows and decision support.
 
-- **Data Processing Specialist** ----- December 2024 - Present
-- *AppSense Medicaid, Oklahoma City, Oklahoma, US (Remote)*
+- **Data Processing Specialist** ----- December 2024 - June 2025
+- *AppSense Medicaid, Oklahoma City, Oklahoma, US*
   
   - Entry and Process Data from Woundynamics to AppSense Production
   - Work with Document AI on Google Cloud Platform to build a processor that automatically extracts data
@@ -55,16 +55,13 @@ precision.
   - Guide students in lab sessions using Python.
 
 ## 💻 Skills
-- **Progamming Languages**: Python (Advanced), SQL, R, Java(Basic)
-- **Visualization**: PowerBI, Python (Seaborn, Matplotlib, Flask, Streamlit), JavaScript (D3.js)
-- **Machine Learning**: Classification, Regression, Clustering, Time-Series, Association Rule.. (skicit-learn)
-- **Deep Learning**: CNN, RNN, LSTM... (Tensorflow, PyTorch, Keras)
-- **Recommendation System**: Segtiment Analysis
+- **Progamming Languages**: Python, SQL, Java
+- **Visualization**: PowerBI, Python (Matplotlib)
+- **Machine Learning**: Classification, Regression, Clustering, Time-Series, Association Rule
+- **Deep Learning**: Tensorflow, PyTorch, Keras
 - **Natural Language Processing**: (NLTK, Hugging Face Transformers)
 - **Computer Vision**: (OpenCV, CNN model, Yolo, SAM)
-- **Data preprocessing & Feature Engineering**: to understand the business insight (pandas, NumPy, SciPy)
 - **Big Data**: PySpark, Docker, Apache (Kafka, Spark, HDFS)
-- **Mathematics**: Calculus, Linear Algebra, Probability and Statistics
 - **Cloud**: Google Cloud Platform
 - **Others**: Microsoft Office, Problem Solving Skills, Critical Thinking, Git
 
