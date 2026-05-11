@@ -235,15 +235,13 @@ Python, n8n, Docker, VPS, OCR, GPT, Claude, RAG, APIs, GCP, SQL, Workflow Automa
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=23092003e&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=23092003e&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23092003e&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23092003e&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=23092003e&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=23092003e&theme=tokyonight"/>
 </p>
 
 ---
