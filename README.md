@@ -234,30 +234,23 @@ Python, n8n, Docker, VPS, OCR, GPT, Claude, RAG, APIs, GCP, SQL, Workflow Automa
 
 # 📊 GitHub Analytics
 
-<p align="center">
-  <img 
-    width="49%" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=23092003e&show_icons=true&theme=tokyonight&hide_border=true"
-  />
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=23092003e&show_icons=true&theme=tokyonight&hide_border=true"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=23092003e&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook"/>
+    </td>
+  </tr>
+</table>
 
-  <img 
-    width="41%" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=23092003e&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook"
-  />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=23092003e&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img 
-    width="70%" 
-    src="https://streak-stats.demolab.com?user=23092003e&theme=tokyonight&hide_border=true"
-  />
-</p>
-
-<p align="center">
-  <img 
-    width="90%" 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=23092003e&theme=tokyonight"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=23092003e&theme=tokyonight"/>
 </p>
 
 ---
